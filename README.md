@@ -56,7 +56,7 @@ class Services:
   <a href="https://t.me/maxprss1">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://gunrixcode.pages.dev/">
+  <a href="https://gunrixcode.pages">
     <img src="https://img.shields.io/badge/WEBSITE-58a6ff?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
