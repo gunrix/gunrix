@@ -53,7 +53,7 @@ class Services:
 ## 📫 Socials
 
 <p align="center">
-  <a href="https://t.me/codeadapter">
+  <a href="https://t.me/maxprss1">
     <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://javadev.lol">
